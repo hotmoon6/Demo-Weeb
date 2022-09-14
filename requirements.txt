@@ -39,4 +39,3 @@ urllib3
 xattr
 yt-dlp
 waybackpy
-itertools
